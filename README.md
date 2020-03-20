@@ -5,7 +5,7 @@ Configuration preset for [Prettier](https://prettier.io).
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ yarn add --dev @pur.life/prettier-preset
 ```
 
 **Edit `package.json`**:
@@ -13,6 +13,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@pur.life/prettier-preset"
 }
 ```
