@@ -1,0 +1,22 @@
+{
+  "name": "prettier-preset",
+  "version": "1.0.1",
+  "description": "Configuration for prettier.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pur-life/prettier-preset.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Karim Issa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pur-life/prettier-preset/issues"
+  },
+  "homepage": "https://github.com/pur-life/prettier-preset#readme"
+}
