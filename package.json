@@ -1,6 +1,6 @@
 {
-  "name": "@pur.life/prettier-preset",
-  "version": "1.0.0",
+  "name": "prettier-preset",
+  "version": "1.0.1",
   "description": "Configuration for prettier.",
   "main": "index.json",
   "scripts": {
